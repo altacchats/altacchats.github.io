@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm a geek, a teacher and scientist. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+<span class="fa fa-graduation-cap about-icon"></span> Currently, I'm attending Michigan State University where my graduate work focuses on finding the genetic underpinnings of weediness. I work on *Raphanus raphanistrum* (that's radishes), and I'm comparing the genomes of crop radish, weedy radish and (non-weedy) wild radish to see what genes differ between ecotypes.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
