@@ -15,7 +15,7 @@ Currently, I'm attending Michigan State University where my graduate work focuse
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span> 
-I write/code in **R**, **LaTeX**, and **BASH** with gusto, **Python** when pressed, and dabble in **make**, **sql**, and whatever else seems interesting at the time.
+I write/code in <strong>R</strong>, <strong>LaTeX</strong>, and <strong>BASH</strong> with gusto, <strong>Python</strong> when pressed, and dabble in <strong>make</strong>, <strong>sql</strong>, and whatever else seems interesting at the time.
 </p>
 
 <p class="about-text">
