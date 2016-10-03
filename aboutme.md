@@ -21,7 +21,7 @@ I write/code in <strong>R</strong>, <strong>LaTeX</strong>, <strong>Markdown</st
 <p class="about-text">
 
 <span class="fa fa-graduation-cap about-icon"></span>
-I have a duel B.A. in Biochemistry and Criminal Justice from <a href="http://www.olivetcollege.edu/">Olivet College</a>
+I have a dual B.A. in Biochemistry and Criminal Justice from <a href="http://www.olivetcollege.edu/">Olivet College</a>
 </p>
 
 <p class="about-text">
