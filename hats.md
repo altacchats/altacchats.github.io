@@ -15,7 +15,7 @@ images:
  - "/img/sillyhats/small_IMG_0189_2.jpg" : "Chicken"
  - "/img/sillyhats/small_IMG_0190_2.jpg" : "Umbrella"
  - "/img/sillyhats/small_IMG_0988.jpg" : "Octopus"
- --
+ ---
  
  <ul class="photo-gallery">
   {% for image in page.images %}
