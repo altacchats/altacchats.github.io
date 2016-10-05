@@ -44,5 +44,12 @@ Follow <a href="https://twitter.com/procrastinomics">@procrastinomics</a> for oc
 
 <span class="fa fa-steam-square about-icon"></span> 
 Have some free time? Help me save Pandora from Handsome Jack. I'm Procrastinomics
+</p>
+
+<p class="about-text">
+
+<span class="fa fa-camera-retro about-icon"></span> 
+I also like to decorate pastries and wear <a href="../hats"> silly hats</a>
+
 
 
