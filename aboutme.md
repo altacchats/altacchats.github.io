@@ -49,7 +49,7 @@ Have some free time? Help me save Pandora from Handsome Jack. I'm Procrastinomic
 <p class="about-text">
 
 <span class="fa fa-camera-retro about-icon"></span> 
-I also like to decorate pastries and wear <a href="../hats"> silly hats</a>
+I also like to decorate <a href="../pastries"> pastries </a> and wear <a href="../hats"> silly hats</a>
 
 
 
