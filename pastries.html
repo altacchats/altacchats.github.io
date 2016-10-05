@@ -1,0 +1,46 @@
+--- 
+images: 
+  - 
+    image_path: /img/sillyhats/Nintendo Cake 001.jpg
+    title: Princess Peach Castle
+  - 
+    image_path: /img/sillyhats/Nintendo Cake 002.jpg
+    title: Princess Peach Castle
+  - 
+    image_path: /img/sillyhats/Nintendo Cake 003.jpg
+    title: Toad on a pipe
+  - 
+    image_path: /img/sillyhats/Nintendo Cake 004.jpg
+    title: Sorry, the princess is in another castle
+  - 
+    image_path: /img/sillyhats/Nintendo Cake 005.jpg
+    title: Bad Donkey Kong
+  - 
+    image_path: /img/sillyhats/Nintendo Cake 006.jpg
+    title: Chain Chomp
+  - 
+    image_path: /img/sillyhats/Nintendo Cake 008.jpg
+    title: Piranha pipe
+  - 
+    image_path: /img/sillyhats/small_IMG_0198.JPG
+    title: Galaxy cake
+  - 
+    image_path: /img/sillyhats/small_IMG_0201.JPG
+    title: Scheeeewonnggg
+  - 
+    image_path: /img/sillyhats/small_IMG_0207.JPG
+    title: Head Cannon
+  - 
+    image_path: /img/sillyhats/small_IMG_2819.JPG
+    title: You euthanized your faithful Companion Cube more quickly than any test subject on record. Congratulations.
+  - 
+    image_path: /img/sillyhats/small_IMG_2820.JPG
+    title: Oh, you think you're doing some damage? Two plus two is [static] … ten. IN BASE FOUR! I'M FINE!
+layout: minimal
+css: "/css/photo.css"
+--- 
+<ul class="photo-gallery">
+  {% for image in page.images %}
+    <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+  {% endfor %}
+</ul>
