@@ -24,7 +24,8 @@ description: Website in progress
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Tutorials: "https://www.overleaf.com/read/bybtmqkkmpdk"
+  Other Resources:
     - GitHub: "https://github.com/ACharbonneau"
     - GK12: "http://kbsgk12project.kbs.msu.edu/search-lesson-plans/"
     - NGS: "http://angus.readthedocs.io/en/2016/"
