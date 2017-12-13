@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Amanda Charbonneau
+title: 
 ---
 # Amanda Charbonneau
 
