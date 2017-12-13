@@ -6,8 +6,9 @@ title: Amanda Charbonneau
 Genomics, Bioinformatics, Population Genetics and Teaching
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="charbo24@msu.edu">charbo24@msu.edu</a>
+| <a href="https://acharbonneau.github.io/">Website</a>
+|  [Download a PDF](/img/AC_web_2017.pdf)
 </div>
 
 
