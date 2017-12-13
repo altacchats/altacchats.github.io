@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 title: Amanda Charbonneau
 ---
 # Amanda Charbonneau
