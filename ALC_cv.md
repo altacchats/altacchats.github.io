@@ -4,13 +4,11 @@ title: Amanda Charbonneau
 ---
 # Amanda Charbonneau
 
-============
-
--------------------     ----------------------------
-Michigan State University       <a href="charbo24@msu.edu">charbo24@msu.edu</a>
-288 Farm Lane Room 203          <a href="https://twitter.com/procrastinomics">@procrastinomics</a>
-Natural Science Bldg             (989) 313-0202
-E. Lansing, MI 48824        [Download a PDF](../AC_web_2017.pdf)
+:-------------------     ----------------------------:
+| Michigan State University    | <a href="charbo24@msu.edu">charbo24@msu.edu</a>
+| 288 Farm Lane Room 203       |   <a href="https://twitter.com/procrastinomics">@procrastinomics</a>
+| Natural Science Bldg         |    (989) 313-0202
+| E. Lansing, MI 48824         |  [Download a PDF](../AC_web_2017.pdf)
 -------------------     ----------------------------
 
 Education
