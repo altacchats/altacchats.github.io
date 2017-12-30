@@ -23,7 +23,7 @@ Research and Professional Experience
     Research Topic: Determining the loci that underlie the differences between weedy *R. raphanistrum* and its non-weedy relatives
 
 Summer 2014 & 2015
-:   **Course Coordinator**; <a href="http://angus.readthedocs.io/en/2016/"> Next-Gen Sequence Analysis Workshop</a>
+:   **Course Coordinator**; <a href="http://angus.readthedocs.io/en/2015/"> Next-Gen Sequence Analysis Workshop</a>
 
     Logistics and troubleshooting for two-week intensive learning course, in addition to teaching (see below).
 
@@ -53,15 +53,29 @@ Teaching & Outreach
 
 2017 - present
 :   **Maintainer**; Data Carpentry Genomics Lessons
-
     Remote and Cloud Computing
+
+2015 – present
+:   **Software Carpentry Instructor** <a href="http://keszybz.github.io/2015-06-25-notre-dame/"> Notre Dame, </a> <a href="http://umswc.github.io/2015-08-26-umswc/"> U of M </a>
 
 2017 - present
 :   **Genetics Officer**; Forum and career workshop coordinator
 
+2014 - present
+:   **Education Staff**; <a href="http://www.potterparkzoo.org/"> Potter Park Zoo, </a> Lansing , Michigan
+    Organize and manage individual educational special events such as birthdays and overnights
+
+2008 – present
+:   **Docent**; <a href="http://www.potterparkzoo.org/"> Potter Park Zoo, </a> Lansing , Michigan
+    Teach the scientific method & introduce research methods for the “BIG Zoo Lesson”. Use observation of animal behavior to teach children core science principles. Train animals and animal handlers for outreach.
+
 Spring 2016, 2017, & 2018
 :   **Lab Instructor**;  Cells and Development, MSU
     Teach cell culture and experimental design
+
+Fall 2016 & 2017
+:   **Teaching Assistant**; Histology, MSU
+    Half-time recitation appointment
 
 Summer 2016 & 2017
 :   **Instructor**; Evolution, MSU
@@ -69,7 +83,6 @@ Summer 2016 & 2017
 
 Fall 2016 & 2017
 :   **Teaching Assistant**; Histology, MSU
-
     Half-time recitation appointment
 
 
