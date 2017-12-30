@@ -7,7 +7,7 @@ Genomics, Bioinformatics, Population Genetics and Teaching
 
 
 | Address | Contact |
-| :------ |:--- |
+| :------ |-----: |
 | Michigan State University    | <a href="charbo24@msu.edu">charbo24@msu.edu</a>
 | 288 Farm Lane Room 203       |   <a href="https://twitter.com/procrastinomics">@procrastinomics</a>
 | Natural Science Bldg         |    (989) 313-0202
@@ -20,28 +20,33 @@ Research and Professional Experience
 2011-2018 (expected)
 :   **PhD, Genetics**; Michigan State University
 
-    Research Topic: Determining the loci that underlie the differences between weedy *R. raphanistrum* and its non-weedy relatives
+    Research Topic: Determining the loci that underlie the differences between
+    weedy *R. raphanistrum* and its non-weedy relatives
 
 Summer 2014 & 2015
 :   **Course Coordinator**; <a href="http://angus.readthedocs.io/en/2015/"> Next-Gen Sequence Analysis Workshop</a>
 
-    Logistics and troubleshooting for two-week intensive learning course, in addition to teaching (see below).
+    Logistics and troubleshooting for two-week intensive learning course,
+    in addition to teaching (see below).
 
 2007 – 2011
 :   **Research Technologist**; Biochemistry and Molecular Biology, MSU
 
-    Genomic screening of secondary metabolites in tomato trichomes from wild and cultivated species.
-Genetic and biochemical characterization of genes causing qualitative differences between wild and cultivated varieties of tomato.
+    Genomic screening of secondary metabolites in tomato trichomes from wild
+    and cultivated species. Genetic and biochemical characterization of genes
+    causing qualitative differences between wild and cultivated varieties of tomato.
 
 2005 – 2007
 :   **Research Technician**; Dow Chemical Company, New Products R&D
 
-    Creation and testing of metal matrix composites materials for use as body armor and vehicle components.
+    Creation and testing of metal matrix composites materials for use as body
+    armor and vehicle components.
 
 2005 – 2005
 :   **Researchers Aide**; Landscape Entomology, MSU
 
-    Independent testing of pesticides. Pest consultations for privately owned land management agencies.
+    Independent testing of pesticides. Pest consultations for privately owned
+    land management agencies.
 
 2001 – 2005
 :   **BA Biochemistry & Criminal Justice**; Olivet College, Olivet, Michigan, 49076
@@ -67,18 +72,24 @@ Teaching & Outreach
 
 2008 – present
 :   **Docent**; <a href="http://www.potterparkzoo.org/"> Potter Park Zoo, </a> Lansing , Michigan
-    Teach the scientific method & introduce research methods for the “BIG Zoo Lesson”. Use observation of animal behavior to teach children core science principles. Train animals and animal handlers for outreach.
+
+    Teach the scientific method & introduce research methods for the “BIG Zoo Lesson”.
+    Use observation of animal behavior to teach children core science principles.
+    Train animals and animal handlers for outreach.
 
 Spring 2016, 2017, & 2018
 :   **Lab Instructor**;  Cells and Development, MSU
+
     Teach cell culture and experimental design
 
 Fall 2016 & 2017
 :   **Teaching Assistant**; Histology, MSU
+
     Half-time recitation appointment
 
 Summer 2016 & 2017
 :   **Instructor**; Evolution, MSU
+
     Develop and teach entirely online course through D2L
 
 Fall 2016 & 2017
