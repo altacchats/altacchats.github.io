@@ -3,8 +3,11 @@ layout: cv
 title:
 ---
 # Amanda Charbonneau
-Genomics, Bioinformatics, Population Genetics and Teaching
+Expertise: Genomics, Bioinformatics, Population Genetics and Teaching
 
+Programming Languages: **R**, **BASH**, **Python**, **make**, **sql**
+
+Formatting Languages: **LaTeX**, **Markdown**, **Rst**, **html**,
 
 | Address | Contact |
 | :------ |-----: |
@@ -58,16 +61,21 @@ Teaching & Outreach
 
 2017 - present
 :   **Maintainer**; Data Carpentry Genomics Lessons
-    Remote and Cloud Computing
 
-2015 – present
-:   **Software Carpentry Instructor** <a href="http://keszybz.github.io/2015-06-25-notre-dame/"> Notre Dame, </a> <a href="http://umswc.github.io/2015-08-26-umswc/"> U of M </a>
+    Remote and Cloud Computing
 
 2017 - present
 :   **Genetics Officer**; Forum and career workshop coordinator
 
+2015 – present
+:   **Software Carpentry Instructor** <a href="http://www.datacarpentry.org/2015-07-22-JamesMadison/"> James Madison </a>, <a href="http://acharbonneau.github.io/2016-01-18-MSU/"> MSU </a> , <a href="https://acharbonneau.github.io/2016-09-28-MSU/"> MSU </a>
+
+2015 – present
+:   **Data Carpentry Instructor** <a href="http://keszybz.github.io/2015-06-25-notre-dame/"> Notre Dame </a>, <a href="http://umswc.github.io/2015-08-26-umswc/"> U of M </a>
+
 2014 - present
 :   **Education Staff**; <a href="http://www.potterparkzoo.org/"> Potter Park Zoo, </a> Lansing , Michigan
+
     Organize and manage individual educational special events such as birthdays and overnights
 
 2008 – present
@@ -90,7 +98,7 @@ Fall 2016 & 2017
 Summer 2016 & 2017
 :   **Instructor**; Evolution, MSU
 
-    Develop and teach entirely online course through D2L
+    Develop and teach 100% online course through D2L
 
 Fall 2016 & 2017
 :   **Teaching Assistant**; Histology, MSU
@@ -131,7 +139,7 @@ Open Source
     your idea...
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
+:   **R:** Here, we have an itemization, where we only want
     to add descriptions to the first few items, but still want to
     mention some others together at the end. A format that works well
     here is a description list where the first few items have their
