@@ -1,8 +1,10 @@
 ---
-layout: page
-title: 
+layout: cv
+title:
 ---
 # Amanda Charbonneau
+Genomics, Bioinformatics, Population Genetics and Teaching
+
 
 | Address | Contact |
 | :------ |:--- |
@@ -64,7 +66,7 @@ Spring 2016, 2017, & 2018
 Summer 2016 & 2017
 :   **Instructor**; Evolution, MSU
     Develop and teach entirely online course through D2L
-    
+
 Fall 2016 & 2017
 :   **Teaching Assistant**; Histology, MSU
 
@@ -116,7 +118,7 @@ Programming Languages
 :   **second-lang:** Description of your experience with second-lang,
     perhaps again including a [link] [ref], this time placing the url
     reference elsewhere in the document to reduce clutter (see source
-    file). 
+    file).
 
 :   **obscure-but-impressive-lang:** We both know this one's pushing
     it.
@@ -185,7 +187,7 @@ Associate, *French Academy of Science*, Paris, France
 ### Journals
 
 `1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 
 `1669`
 Lectiones opticæ.
@@ -214,5 +216,3 @@ __Lucasian professor of Mathematics__, Cambridge University
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
