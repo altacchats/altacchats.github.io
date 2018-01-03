@@ -72,7 +72,7 @@ Teaching & Outreach
 2015 – present
 :   **Instructor** Software Carpentry and Data Carpentry
 
-    Teach basic programming and data analysis skills to researchers with a wide variety of computing abilities in two day workshops. Examples: <a href="http://www.datacarpentry.org/2015-07-22-JamesMadison/"> James Madison </a>, <a href="http://acharbonneau.github.io/2016-01-18-MSU/"> MSU </a> , <a href="https://acharbonneau.github.io/2016-09-28-MSU/"> MSU </a>, <a href="http://keszybz.github.io/2015-06-25-notre-dame/"> Notre Dame </a>, <a href="http://umswc.github.io/2015-08-26-umswc/"> U of M </a>
+    Teach basic programming and data analysis skills to researchers with a wide variety of computing abilities in two day workshops. Examples: <a href="http://www.datacarpentry.org/2015-07-22-JamesMadison/"> James Madison </a>, <a href="http://acharbonneau.github.io/2016-01-18-MSU/"> MSU </a>, <a href="https://acharbonneau.github.io/2016-09-28-MSU/"> MSU </a>, <a href="http://keszybz.github.io/2015-06-25-notre-dame/"> Notre Dame </a>, <a href="http://umswc.github.io/2015-08-26-umswc/"> U of M </a>
 
 2014 - present
 :   **Education Staff**; <a href="http://www.potterparkzoo.org/"> Potter Park Zoo, </a> Lansing , Michigan
@@ -103,6 +103,7 @@ Summer 2016 & 2017
 
 Fall 2016 & 2017
 :   **Teaching Assistant**; Histology, MSU
+
     Half-time recitation appointment
 
 Aug. 2012, 2013, 2014, 2015 & 2016
@@ -146,7 +147,7 @@ Fall 2015
     Act as a ‘visiting scientist’ in local schools helping to both teach and improve upon the science curriculum for elementary, middle and high school classrooms
 
 2013 - 2015
-:   **Poster Judge**; University Undergraduate Research and Arts Forum, MSU
+:   **Poster Judge**; University Undergraduate Research and Arts Forum, MSU  
 
 
 Sept. 2013
