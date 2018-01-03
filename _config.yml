@@ -25,7 +25,7 @@ description: Website in progress
 navbar-links:
   About Me: 
     - About Me: "aboutme"
-    - CV: "ALC_cv"
+    - CV: "../AC_web_2017.pdf"
   Tutorials: 
     - Using LaTex: "https://github.com/ACharbonneau/LaTeX2016"
     - Intro to Shell Scripting: "https://github.com/ACharbonneau/2016-01-18-MSU/blob/gh-pages/Lessons/05_DataFilesAndScripts.rst" 
