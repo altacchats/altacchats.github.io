@@ -67,11 +67,12 @@ Teaching & Outreach
 2017 - present
 :   **Genetics Officer**; Forum and career workshop coordinator
 
-2015 – present
-:   **Software Carpentry Instructor** <a href="http://www.datacarpentry.org/2015-07-22-JamesMadison/"> James Madison </a>, <a href="http://acharbonneau.github.io/2016-01-18-MSU/"> MSU </a> , <a href="https://acharbonneau.github.io/2016-09-28-MSU/"> MSU </a>
+    Organize professional events for the Genetics Program
 
 2015 – present
-:   **Data Carpentry Instructor** <a href="http://keszybz.github.io/2015-06-25-notre-dame/"> Notre Dame </a>, <a href="http://umswc.github.io/2015-08-26-umswc/"> U of M </a>
+:   **Instructor** Software Carpentry and Data Carpentry
+
+    Teach basic programming and data analysis skills to researchers with a wide variety of computing abilities in two day workshops. Examples: <a href="http://www.datacarpentry.org/2015-07-22-JamesMadison/"> James Madison </a>, <a href="http://acharbonneau.github.io/2016-01-18-MSU/"> MSU </a> , <a href="https://acharbonneau.github.io/2016-09-28-MSU/"> MSU </a>, <a href="http://keszybz.github.io/2015-06-25-notre-dame/"> Notre Dame </a>, <a href="http://umswc.github.io/2015-08-26-umswc/"> U of M </a>
 
 2014 - present
 :   **Education Staff**; <a href="http://www.potterparkzoo.org/"> Potter Park Zoo, </a> Lansing , Michigan
@@ -93,7 +94,7 @@ Spring 2016, 2017, & 2018
 Fall 2016 & 2017
 :   **Teaching Assistant**; Histology, MSU
 
-    Half-time recitation appointment
+    Teach microscopy and micro-anatomy. Half-time recitation appointment
 
 Summer 2016 & 2017
 :   **Instructor**; Evolution, MSU
@@ -104,6 +105,54 @@ Fall 2016 & 2017
 :   **Teaching Assistant**; Histology, MSU
     Half-time recitation appointment
 
+Aug. 2012, 2013, 2014, 2015 & 2016
+:   **Instructor**; <a href="http://angus.readthedocs.io/en/2016/">  Next-Gen Sequence Analysis Workshop</a>
+
+    Teach a wide variety of computing topics including basic unix, bioinformatics and cloud computing for a two-week intensive learning workshop
+
+2010, 2015, & 2016
+:   **Presenter**; <a href="http://www.grandparents.msu.edu/">  Grandparents University, MSU </a>
+
+    Science of Smells and Tastes
+
+Summer 2016
+:   **Instructor**; Fundamental Genetics, MSU
+
+    Traditional on-campus course in basic genetics
+
+Feb 2016
+:   **Instructor**; Introduction to LaTeX, <a href="http://dib-training.readthedocs.org/en/pub/2016-02-08-bodega.html"> DIB Intermediate Bioinformatics Training </a>
+
+    Develop and teach LaTeX on Overleaf, for beginners
+
+Jan 2016
+:   **Instructor**; <a href="https://wiki.hpcc.msu.edu/pages/viewpage.action?pageId=5406863"> RNAseq Workshop </a>, ICER, MSU
+
+    Teach single workflow to novices over two days
+
+Fall 2015 - Spring 2016
+:   **Organizer/Instructor**; <a href="https://groups.google.com/forum/#!forum/nebulousngs"> NGS Continuation course </a>
+
+    Monthly evening session to teach practical computing to biologists
+
+Fall 2015
+:   **Teaching Assistant**; Genetics, MSU
+
+    Half-time recitation appointment
+
+2013 – May 2015
+:   **GK-12 Fellow**; Kellogg Biological Station, MSU
+
+    Act as a ‘visiting scientist’ in local schools helping to both teach and improve upon the science curriculum for elementary, middle and high school classrooms
+
+2013 - 2015
+:   **Poster Judge**; University Undergraduate Research and Arts Forum, MSU
+
+
+Sept. 2013
+:   **Teaching Assistant**; Software Carpentry workshop
+
+    Teach a wide variety of computing topics including basic unix, programing and data management
 
 **Your Most Recent Work Experience:**
 
