@@ -10,7 +10,7 @@ I'm a geek, a teacher and scientist.
 
 <p class="about-text">
 <span class="fa fa-flask about-icon"></span> 
-I'm a project manager for the [Data Commons Pilot Phase Consortium](https://commonfund.nih.gov/commons). I do a lot of GitHub wrangling, report managment, and general chaos quelling :)
+I'm a project manager for the <a href="https://commonfund.nih.gov/commons">Data Commons Pilot Phase Consortium</a>. I do a lot of GitHub wrangling, report managment, and general chaos quelling :)
 </p>
 
 <p class="about-text">
