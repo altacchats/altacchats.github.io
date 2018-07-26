@@ -10,7 +10,7 @@ I'm a geek, a teacher and scientist.
 
 <p class="about-text">
 <span class="fa fa-flask about-icon"></span> 
-Currently, I'm attending Michigan State University where my graduate work focuses on finding the genetic underpinnings of weediness. I work on <i>Raphanus raphanistrum</i> (that's radishes), and I'm comparing the genomes of crop radish, weedy radish and (non-weedy) wild radish to see what genes differ between ecotypes.
+I'm a project manager for the [Data Commons Pilot Phase Consortium](https://commonfund.nih.gov/commons). I do a lot of GitHub wrangling, report managment, and general chaos quelling :)
 </p>
 
 <p class="about-text">
@@ -21,7 +21,7 @@ I write/code in <strong>R</strong>, <strong>LaTeX</strong>, <strong>Markdown</st
 <p class="about-text">
 
 <span class="fa fa-graduation-cap about-icon"></span>
-I have a dual B.A. in Biochemistry and Criminal Justice from <a href="http://www.olivetcollege.edu/">Olivet College</a>
+I recently graduated from Michigan State University where my PhD work focused on finding the genetic underpinnings of weediness. I worked on <i>Raphanus raphanistrum</i> (that's radishes), and compared the genomes of crop radish, weedy radish and (non-weedy) wild radish to see what genes differ between ecotypes. I also have a dual B.A. in Biochemistry and Criminal Justice from <a href="http://www.olivetcollege.edu/">Olivet College</a>
 </p>
 
 <p class="about-text">
