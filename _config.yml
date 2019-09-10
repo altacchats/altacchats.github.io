@@ -17,7 +17,7 @@ baseurl: ""
 title: Procrastinomics
 
 # Short description of your site
-description: Website in progress
+description: Look at me! I'm a website
 
 # --- Navigation bar options --- #
 
@@ -25,14 +25,15 @@ description: Website in progress
 navbar-links:
   About Me: 
     - About Me: "aboutme"
-    - CV: "../AC_cv_web_2018.pdf"
+    - CV: "../AC_cv_web.pdf"
   Tutorials: 
     - Using LaTex: "https://github.com/ACharbonneau/LaTeX2016"
     - Intro to Shell Scripting: "https://github.com/ACharbonneau/2016-01-18-MSU/blob/gh-pages/Lessons/05_DataFilesAndScripts.rst" 
   Other Projects:
     - Data Carpentry: "http://www.datacarpentry.org/cloud-genomics/"
     - GK12: "http://kbsgk12project.kbs.msu.edu/search-lesson-plans/"
-    - angus: "http://angus.readthedocs.io/en/2018/"
+    - angus: "http://angus.readthedocs.io/en/2019/"
+    - CFDE: "https://commonfund.nih.gov/dataecosystem"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -44,7 +45,7 @@ avatar: "/img/avatar-icon.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Amanda Charbonneau
-  email: "charbo24@msu.edu"
+  email: "achar@ucdavis.edu"
 #  facebook: yourname  # eg. daattali
   github: ACharbonneau    # eg. daattali
   twitter: procrastinomics   # eg. daattali
