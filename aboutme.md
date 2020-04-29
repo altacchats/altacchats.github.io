@@ -10,7 +10,7 @@ I'm a geek, a teacher and scientist.
 
 <p class="about-text">
 <span class="fa fa-flask about-icon"></span> 
-I'm a project manager for the <a href="https://commonfund.nih.gov/dataecosystem">Common Fund Data Ecosystem/a>. I do a lot of GitHub wrangling, report managment, and general chaos quelling :)
+I'm a project manager for the <a href="https://commonfund.nih.gov/dataecosystem">Common Fund Data Ecosystem </a>. I do a lot of GitHub wrangling, report managment, and general chaos quelling :)
 </p>
 
 <p class="about-text">
@@ -21,7 +21,7 @@ I write/code in <strong>R</strong>, <strong>LaTeX</strong>, <strong>Markdown</st
 <p class="about-text">
 
 <span class="fa fa-graduation-cap about-icon"></span>
-I recently graduated from Michigan State University where my PhD work focused on finding the genetic underpinnings of weediness. I worked on <i>Raphanus raphanistrum</i> (that's radishes), and compared the genomes of crop radish, weedy radish and (non-weedy) wild radish to see what genes differ between ecotypes. I also have a dual B.A. in Biochemistry and Criminal Justice from <a href="http://www.olivetcollege.edu/">Olivet College</a>
+I did my PhD work at Michigan State University where I focused on finding the genetic underpinnings of weediness. I worked on <i>Raphanus raphanistrum</i> (that's radishes), and compared the genomes of crop radish, weedy radish and (non-weedy) wild radish to see what genes differ between ecotypes. I also have a dual B.A. in Biochemistry and Criminal Justice from <a href="http://www.olivetcollege.edu/">Olivet College</a>
 </p>
 
 <p class="about-text">
@@ -30,9 +30,6 @@ I recently graduated from Michigan State University where my PhD work focused on
 </p>
 
 <p class="about-text">
-
-<span class="fa fa-paw about-icon"></span> When I'm not at work, I can frequently be found at <a href="http://www.potterparkzoo.org/">Potter Park Zoo </a> in Lansing, MI where I do educational programming, train raptors to sit on glove for presentations, and train people to handle the raptors. 
-</p>
 
 <p class="about-text">
 
