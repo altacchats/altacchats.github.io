@@ -10,7 +10,7 @@ I'm a geek, a teacher and scientist.
 
 <p class="about-text">
 <span class="fa fa-flask about-icon"></span> 
-I'm a project manager for the <a href="https://commonfund.nih.gov/dataecosystem">Common Fund Data Ecosystem </a>. I do a lot of GitHub wrangling, report managment, and general chaos quelling :)
+I'm a project manager for the <a href="https://www.nih-cfde.org/">Common Fund Data Ecosystem </a>. I do a lot of GitHub wrangling, report managment, and general chaos quelling :)
 </p>
 
 <p class="about-text">
