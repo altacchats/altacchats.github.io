@@ -14,43 +14,36 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Procrastinomics
+title: Abhijna Parigi
 
 # Short description of your site
-description: Look at me! I'm a website
+description: This is my awesome website
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: 
+  About Me:
     - About Me: "aboutme"
-    - CV: "../AC_cv_web.pdf"
-  Tutorials: 
-    - Using LaTex: "https://github.com/ACharbonneau/LaTeX2016"
-    - Intro to Shell Scripting: "https://github.com/ACharbonneau/2016-01-18-MSU/blob/gh-pages/Lessons/05_DataFilesAndScripts.rst" 
-  Other Projects:
-    - Data Carpentry: "http://www.datacarpentry.org/cloud-genomics/"
-    - GK12: "http://kbsgk12project.kbs.msu.edu/search-lesson-plans/"
-    - angus: "http://angus.readthedocs.io/en/2019/"
-    - CFDE: "https://www.nih-cfde.org/"
+    - CV: ""
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/profile_pic.jpg"
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Amanda Charbonneau
-  email: "achar@ucdavis.edu"
+  name: Abhijna Parigi
+  email: "aaparigi@ucdavis.edu"
 #  facebook: yourname  # eg. daattali
-  github: ACharbonneau    # eg. daattali
-  twitter: procrastinomics   # eg. daattali
+  github: abhijna    # eg. daattali
+  twitter: AbhijnaParigi   # eg. daattali
 #  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: Amanda Charbonneau  # eg. daattali
+  linkedin: Abhijna Parigi  # eg. daattali
 #  xing: yourname      # eg. daattali
 #  stackoverflow: yourlink  # eg. "3943160/daattali"
 #  snapchat: yourname  # eg. daattali
@@ -83,7 +76,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ACharbonneau/ACharbonneau.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "abhijna/abhijnaparigi.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
@@ -91,7 +84,7 @@ url-pretty: "ACharbonneau/ACharbonneau.github.io"  # eg. "deanattali.com/beautif
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-85284901-1"
+# google_analytics: "UA-85284901-1"
 
 # Facebook App ID
 # fb_app_id: ""
@@ -99,7 +92,7 @@ google_analytics: "UA-85284901-1"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Los_Angeles"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
