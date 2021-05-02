@@ -75,7 +75,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "abhijna/abhijnaparigi.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "abhijna/abhijna.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
