@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://abhijna.github.io"
+url: "http://ACharbonneau.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,35 +14,43 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Abhijna Parigi
+title: Procrastinomics
 
 # Short description of your site
-description: This is my awesome website
+description: Look at me! I'm a website
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me:
-    - About Me: "aboutme.md"
-  Publications: "publications.md"
+  About Me: 
+    - About Me: "aboutme"
+    - CV: "../AC_cv_web.pdf"
+  Tutorials: 
+    - Using LaTex: "https://github.com/ACharbonneau/LaTeX2016"
+    - Intro to Shell Scripting: "https://github.com/ACharbonneau/2016-01-18-MSU/blob/gh-pages/Lessons/05_DataFilesAndScripts.rst" 
+  Other Projects:
+    - Data Carpentry: "http://www.datacarpentry.org/cloud-genomics/"
+    - GK12: "http://kbsgk12project.kbs.msu.edu/search-lesson-plans/"
+    - angus: "http://angus.readthedocs.io/en/2019/"
+    - CFDE: "https://www.nih-cfde.org/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/profile_pic.jpg"
+avatar: "/img/avatar-icon.png"
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Abhijna Parigi
-  email: "aaparigi@ucdavis.edu"
+  name: Amanda Charbonneau
+  email: "achar@ucdavis.edu"
 #  facebook: yourname  # eg. daattali
-  github: abhijna    # eg. daattali
-  twitter: AbhijnaParigi   # eg. daattali
+  github: ACharbonneau    # eg. daattali
+  twitter: procrastinomics   # eg. daattali
 #  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: Abhijna Parigi  # eg. daattali
+  linkedin: Amanda Charbonneau  # eg. daattali
 #  xing: yourname      # eg. daattali
 #  stackoverflow: yourlink  # eg. "3943160/daattali"
 #  snapchat: yourname  # eg. daattali
@@ -75,7 +83,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "abhijna/abhijna.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "ACharbonneau/ACharbonneau.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
@@ -83,7 +91,7 @@ url-pretty: "abhijna/abhijna.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-# google_analytics: "UA-85284901-1"
+google_analytics: "UA-85284901-1"
 
 # Facebook App ID
 # fb_app_id: ""
