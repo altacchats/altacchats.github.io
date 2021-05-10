@@ -25,14 +25,9 @@ description: This is my awesome website
 navbar-links:
   About Me: 
     - About Me: "aboutme"
-    - CV: "../AC_cv_web.pdf"
-  Tutorials: 
-    - Using LaTex: "https://github.com/ACharbonneau/LaTeX2016"
-    - Intro to Shell Scripting: "https://github.com/ACharbonneau/2016-01-18-MSU/blob/gh-pages/Lessons/05_DataFilesAndScripts.rst" 
+    - Publications: "publications" 
   Other Projects:
-    - Data Carpentry: "http://www.datacarpentry.org/cloud-genomics/"
-    - GK12: "http://kbsgk12project.kbs.msu.edu/search-lesson-plans/"
-    - angus: "http://angus.readthedocs.io/en/2019/"
+    - CFDE Training: "https://training.nih-cfde.org/"
     - CFDE: "https://www.nih-cfde.org/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
