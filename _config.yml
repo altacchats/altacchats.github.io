@@ -25,6 +25,8 @@ description: This is my awesome website
 navbar-links:
   About Me: 
     - About Me: "aboutme"
+    - Linkedin: "https://www.linkedin.com/in/abhijna-parigi/"
+    - GitHub: "https://github.com/abhijna"
     - Publications: "publications" 
   Other Projects:
     - CFDE Training: "https://training.nih-cfde.org/"
