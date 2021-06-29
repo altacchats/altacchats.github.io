@@ -23,18 +23,18 @@ description: This is my awesome website
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: 
+  About Me:
     - About Me: "aboutme"
     - Linkedin: "https://www.linkedin.com/in/abhijna-parigi/"
     - GitHub: "https://github.com/abhijna"
-    - Publications: "publications" 
+    - Publications: "publications"
   Other Projects:
     - CFDE Training: "https://training.nih-cfde.org/"
     - CFDE: "https://www.nih-cfde.org/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/profile_pic.jpg"
+avatar: "./img/profile_pic.JPG"
 
 # --- Footer options --- #
 
