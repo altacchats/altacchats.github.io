@@ -5,8 +5,9 @@ title: About me
 
 <div id="aboutme-section">
 
-I am a biologist and bioinformatician postdoc in Titus Brown's lab at UC Davis. I am working as part of the NIH Common Fund Data Ecosystem's training and engagement team to develop bioinformatics pipelines and training resources for researchers and clinicians. I am involved in efforts to make NIH data FAIR (Findable, Accessible, Interoperable, and Reusable)
+I am a biologist and bioinformatician postdoc in Titus Brown's lab at UC Davis. I am working as part of the NIH Common Fund Data Ecosystem's training and engagement team to develop bioinformatics pipelines and training resources for researchers and clinicians. I am involved in efforts to make NIH data FAIR (Findable, Accessible, Interoperable, and Reusable).
 
+<div id="aboutme-section">
 
 ### My PhD Research
 
