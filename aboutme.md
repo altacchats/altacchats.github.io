@@ -3,15 +3,12 @@ layout: page
 title: About me
 ---
 
-<div id="aboutme-section">
 
 I am a biologist and bioinformatician postdoc in Titus Brown's lab at UC Davis. I am working as part of the NIH Common Fund Data Ecosystem's training and engagement team to develop bioinformatics pipelines and training resources for researchers and clinicians. I am involved in efforts to make NIH data FAIR (Findable, Accessible, Interoperable, and Reusable).
 
-<div id="aboutme-section">
 
+## My PhD Research
 
-My PhD Research
----
 <p class="about-text">
 <span class="fa fa-flask about-icon"></span>
 Using a novel model system to understand the interactions between voltage-gated sodium ion channels and gating-modifier neurotoxins
@@ -29,4 +26,3 @@ Although we now understand some aspects of pain resistance, we know little about
 
 Grasshopper mouse muscle sodium ion channels are less sensitive to scorpion venom!
 We used molecular biology, electrophysiology and molecular evolutionary algorithms to understand the structural and functional properties of sodium ion channels expressed in the muscles of grasshopper mice. Our research showed that grasshopper mouse muscle sodium ion channels carry unique amino acid modifications that make them less sensitive to the effects of gating modifier (scorpion) neurotoxins. To take this one step further, we created recombinant genetic constructs of sodium channels and identified the functional consequences of amino acid substitutions in these important proteins. We are currently preparing these results for publication!
-</p>
