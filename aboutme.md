@@ -9,8 +9,9 @@ I am a biologist and bioinformatician postdoc in Titus Brown's lab at UC Davis. 
 
 <div id="aboutme-section">
 
-### My PhD Research
 
+My PhD Research
+---
 <p class="about-text">
 <span class="fa fa-flask about-icon"></span>
 Using a novel model system to understand the interactions between voltage-gated sodium ion channels and gating-modifier neurotoxins
