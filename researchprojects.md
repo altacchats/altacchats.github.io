@@ -12,7 +12,7 @@ Research in the Rowe lab (now at the University of Oklahoma):
 Southern grasshopper mouse and Arizona bark scorpion. Photo credit: Matt Rowe
 Grasshopper mice are resistant to neurotoxins
 
-
+![](./img/researchprojects/gmouse.jpg)
 
 Grasshopper mice (Onychomys torridus) are predatory desert rodents that regularly hunt bark scorpions (Centruroides sculpturatus). Unlike other small mammals (e.g. infant humans), grasshopper mice do not experience pain and muscle paralysis that usually follows scorpion envenomation. This physiological resistance to scorpion venom makes grasshopper mice a great model to study pain and paralysis.
 
