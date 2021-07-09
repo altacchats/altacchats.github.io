@@ -12,7 +12,7 @@ I write code in <strong>R</strong>, <strong>Markdown</strong>, and <strong>BASH<
 <span class="glyphicon glyphicon-cloud"></span>
 I can develop workflows in Snakemake and run bioinformatics pipelines in the cloud (AWS, academic HPC).
 
-<span class="material-icons">computer</span>
+<span class="material-icons">computer></span>
 I also teach/organize several bioinformatics workshops including ones about AWS, Conda, Snakemake and R.
 
 <span class="fa fa-graduation-cap about-icon"></span>
