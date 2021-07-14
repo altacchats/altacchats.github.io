@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Customizing Snakemake Wrappers
+title: About me
 ---
 
 (This is WIP)
