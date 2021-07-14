@@ -25,6 +25,7 @@ description: This is my awesome website
 navbar-links:
   About Me:
     - About Me: "aboutme"
+    - Posts: "snakemake_wrapper_customization"
     - My Research Projects: "researchprojects"
     - Linkedin: "https://www.linkedin.com/in/abhijna-parigi/"
     - GitHub: "https://github.com/abhijna"
