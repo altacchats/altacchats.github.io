@@ -30,7 +30,7 @@ navbar-links:
     - GitHub: "https://github.com/abhijna"
     - Publications: "publications"
   Posts:
-    - Customizing Snakemake Wrappers: "posts/snakemake_wrapper_customization"
+    - Customizing Snakemake Wrappers: "posts/snakemake_wrapper_customization.md"
   Other Projects:
     - CFDE Training: "https://training.nih-cfde.org/"
     - CFDE: "https://www.nih-cfde.org/"
