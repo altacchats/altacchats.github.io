@@ -1,7 +1,4 @@
----
-layout: page
-title: Customizing Snakemake Wrappers
----
+# Customizing Snakemake Wrappers
 
 (This is WIP)
 
