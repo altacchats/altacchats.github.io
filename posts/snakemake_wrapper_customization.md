@@ -1,3 +1,8 @@
+---
+layout: page
+title: Customizing Snakemake Wrappers
+---
+
 (This is WIP)
 
 Thanks to [Tessa Pierce](https://bluegenes.github.io/On-Snakemake-and-Wrappers-for-workflows/) and [Taylor Reiter](https://taylorreiter.github.io/) from the [DIB lab](http://ivory.idyll.org/lab/) for helping with this!
