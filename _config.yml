@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://altacchats.github.io"
-baseurl: ""
+baseurl: "http://altacchats.github.io"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -23,35 +23,28 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
-  About Me:
-    - About Me: "aboutme"
-    - My Research Projects: "researchprojects"
-    - Linkedin: ""
-    - GitHub: ""
-    - Publications: "publications"
-  Posts:
-    - Customizing Snakemake Wrappers: "posts/snakemake_wrapper_customization"
-  Other Projects:
-    - CFDE Training: "https://training.nih-cfde.org/"
-    - CFDE: "https://www.nih-cfde.org/"
+  About Us:
+  Blog Posts:
+    -
+  Popular Tweets:
   Affiliations:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "img/profile_pic2.png"
+avatar: "img/logo.jpg"
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Abhijna Parigi
-  email: "abhijna.parigi@gmail.com"
+  name: AltAc-Chats
+  email: "altacchat@gmail.com"
 #  facebook: yourname  # eg. daattali
-  github: abhijna    # eg. daattali
-  twitter: AbhijnaParigi   # eg. daattali
+  github: altacchats    # eg. daattali
+  twitter: altacchats   # eg. daattali
 #  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: Abhijna Parigi  # eg. daattali
+  linkedin:   # eg. daattali
 #  xing: yourname      # eg. daattali
 #  stackoverflow: yourlink  # eg. "3943160/daattali"
 #  snapchat: yourname  # eg. daattali
@@ -84,7 +77,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "abhijna/abhijna.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "altacchats/altacchats.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
