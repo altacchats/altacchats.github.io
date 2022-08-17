@@ -4,8 +4,8 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://altacchats.github.io"
-baseurl: "http://altacchats.github.io"
+url: "http://abhijna.github.io"
+baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -14,34 +14,49 @@ baseurl: "http://altacchats.github.io"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: AltAc-Chats Website
+title: Abhijna Parigi
 
 # Short description of your site
-description: This is a short description of the website
+description: This is my awesome website
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Us: "aboutme"
-  Popular Tweets: "https://twitter.com/AltAcChats"
+  About Me:
+    - About Me: "aboutme"
+    - My Research Projects: "researchprojects"
+    - Linkedin: "https://www.linkedin.com/in/abhijna-parigi/"
+    - GitHub: "https://github.com/abhijna"
+    - Publications: "publications"
+  Posts:
+    - Customizing Snakemake Wrappers: "posts/snakemake_wrapper_customization"
+  Other Projects:
+    - CFDE Training: "https://training.nih-cfde.org/"
+    - CFDE: "https://www.nih-cfde.org/"
+  Affiliations:
+    - DIB Lab (present): "http://ivory.idyll.org/lab/"
+    - Fioravante Lab: "https://www.fioravantelab.org/"
+    - Rowe Lab: "https://rowelab.oucreate.com/"
+    - Dworkin Lab: "https://dworkinlab.github.io/"
+    - Karanth Lab: "https://praveenkaranth.weebly.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "img/profile_pic2"
+avatar: "img/profile_pic2.png"
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: AltAc-Chats
-  email: "altacchat@gmail.com"
+  name: Abhijna Parigi
+  email: "abhijna.parigi@gmail.com"
 #  facebook: yourname  # eg. daattali
-  github: altacchats    # eg. daattali
-  twitter: altacchats   # eg. daattali
+  github: abhijna    # eg. daattali
+  twitter: AbhijnaParigi   # eg. daattali
 #  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin:   # eg. daattali
+  linkedin: Abhijna Parigi  # eg. daattali
 #  xing: yourname      # eg. daattali
 #  stackoverflow: yourlink  # eg. "3943160/daattali"
 #  snapchat: yourname  # eg. daattali
@@ -74,7 +89,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "altacchats/altacchats.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "abhijna/abhijna.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
